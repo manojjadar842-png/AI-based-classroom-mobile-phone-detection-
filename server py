@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from datetime import datetime
 from plyer import notification
 import csv
-import os
+import os,
 
 app = Flask(__name__)
 CSV_FILE = "phone_infractions.csv"
