@@ -4,3 +4,4 @@ requests
 flask
 plyer
 numpy
+gunicorn
