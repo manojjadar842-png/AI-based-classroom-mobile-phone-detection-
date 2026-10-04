@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+requests
+flask
+plyer
+numpy
